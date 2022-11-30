@@ -68,7 +68,7 @@ RUN git clone https://github.com/EmiliaRobot/EmiliaRobot/
 WORKDIR /root/EmiliaRobot
 
 #Copy config file to /root/RocksAlexaRobot/RocksAlexaRobot
-COPY  /root/EmiliaRobot/main.py
+COPY ./root/EmiliaRobot/main.py ./root/EmiliaRobot/main.py* /root/EmiliaRobot/main.py
 
 ENV PATH="/home/bot/bin:$PATH"
 

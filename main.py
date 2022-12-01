@@ -219,11 +219,11 @@ async def restart(client, m: Message):
             text = random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.8)
-        await accha.edit("__ᴋᴜɴᴅɪ ʟɢᴀᴀʟᴏ ꜱᴀɪʏᴀᴀɴ......__")
+        await accha.edit("Kᴜɴᴅɪ ʟᴀɢᴀ ʟᴏ sᴀɪʏᴀᴀɴ....😉")
         await asyncio.sleep(0.6)
-        await accha.edit("__ᴛᴜᴍᴀᴋᴏ ᴊᴀɴɴᴀᴛ ᴅɪᴋʜᴀᴀᴛɪ ᴍᴇɪɴ ᴊᴀɴɴᴀᴛ ᴅɪᴋʜᴀᴛɪ........__")
+        await accha.edit("Tᴜᴍᴋᴏ ᴊᴀɴɴᴀᴛ ᴅɪᴋʜᴀᴛɪ...Hᴀ ᴍᴀɪ ᴊᴀɴɴᴀᴛ ᴅɪᴋʜᴀᴛɪ...😁🥀")
         await asyncio.sleep(0.6)
-        await accha.edit("__ᴍᴇɪɴ ᴊᴀɴɴᴀᴛ ᴅɪᴋʜᴀᴛɪ ᴏʏᴇ ʜᴏʏᴇ ᴏʏᴇ ʜᴏʏᴇ......__")
+        await accha.edit("Mᴀɪ ᴊᴀɴɴᴀᴛ ᴅɪᴋʜᴀᴛɪ...Oʏᴇ ʜᴏʏᴇ..Oʏᴇ ʜᴏʏᴇ..😘😜")
         await asyncio.sleep(0.6)
         await accha.delete()
         umm = await m.reply_sticker(

@@ -3,7 +3,7 @@ An Advanced AI Based Telegram Chatbot Open Sorce Code
 
 ## LOGO
 
-<img src="https://te.legra.ph/file/083affde246ca53c1a4e4.jpg" align="center" width="500" height="500"/>
+<img src="https://te.legra.ph/file/083affde246ca53c1a4e4.jpg" align="center" width="500" height="400"/>
 
 
 ## How To Host
